@@ -28,9 +28,7 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         int id = getIntent().getIntExtra("id", -1);
-
         String href = getIntent().getStringExtra("href");
-
         setContentView(R.layout.activity_detail);
         ButterKnife.bind(this);
 
