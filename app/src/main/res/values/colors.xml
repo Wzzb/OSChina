@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+    <color name="colorPrimary">#6f60aa</color>
+    <color name="colorPrimaryDark">#6950a1</color>
+<!--    <color name="colorAccent">#19bb06</color>-->
+    <color name="colorAccent">#9b95c9</color>
+
+    <color name="color_author">#9b95c9</color>
+
+    <color name="color_text_readed">#72777b</color>
+    <color name="color_text_unreaded">#130c0e</color>
+</resources>
